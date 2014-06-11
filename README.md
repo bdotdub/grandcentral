@@ -1,4 +1,4 @@
 grandcentral
 ============
 
-An experiment in release managment
+An experiment in release management
